@@ -1,0 +1,25 @@
+{"id": "q01", "chapter": "제1장 총칙", "question": "인공지능기본법의 목적은 무엇인가요?", "expected_articles": ["제1조"], "expected_answer_keywords": ["건전한 발전", "신뢰 기반 조성", "국민의 권익"]}
+{"id": "q02", "chapter": "제1장 총칙", "question": "이 법에서 인공지능은 어떻게 정의되나요?", "expected_articles": ["제2조"], "expected_answer_keywords": ["학습", "추론", "전자적 방법"]}
+{"id": "q03", "chapter": "제1장 총칙", "question": "고영향 인공지능이란 무엇인가요?", "expected_articles": ["제2조"], "expected_answer_keywords": ["생명", "신체의 안전", "기본권"]}
+{"id": "q04", "chapter": "제1장 총칙", "question": "생성형 인공지능이란 무엇인가요?", "expected_articles": ["제2조"], "expected_answer_keywords": ["데이터", "구조와 특성", "모방"]}
+{"id": "q05", "chapter": "제1장 총칙", "question": "이 법은 국외에서 이루어진 행위에도 적용되나요?", "expected_articles": ["제4조"], "expected_answer_keywords": ["국외", "국내 시장", "이용자"]}
+{"id": "q06", "chapter": "제2장 추진체계", "question": "인공지능 기본계획은 몇 년마다 수립해야 하나요?", "expected_articles": ["제6조"], "expected_answer_keywords": ["3년마다", "기본계획"]}
+{"id": "q07", "chapter": "제2장 추진체계", "question": "국가인공지능전략위원회의 위원장은 누구인가요?", "expected_articles": ["제7조"], "expected_answer_keywords": ["위원장", "대통령"]}
+{"id": "q08", "chapter": "제2장 추진체계", "question": "국가인공지능전략위원회가 심의·의결하는 사항에는 어떤 것이 있나요?", "expected_articles": ["제8조"], "expected_answer_keywords": ["기본계획", "고영향 인공지능"]}
+{"id": "q09", "chapter": "제2장 추진체계", "question": "인공지능정책센터는 어떤 업무를 수행하나요?", "expected_articles": ["제11조"], "expected_answer_keywords": ["전문기술의 지원", "조사ㆍ분석"]}
+{"id": "q10", "chapter": "제2장 추진체계", "question": "인공지능안전연구소는 누가 운영할 수 있나요?", "expected_articles": ["제12조"], "expected_answer_keywords": ["과학기술정보통신부장관", "인공지능안전"]}
+{"id": "q11", "chapter": "제3장 기술개발 및 산업 육성", "question": "학습용데이터 통합제공시스템은 누가 구축·관리하나요?", "expected_articles": ["제15조"], "expected_answer_keywords": ["과학기술정보통신부장관", "통합제공시스템"]}
+{"id": "q12", "chapter": "제3장 기술개발 및 산업 육성", "question": "정부는 인공지능 전문인력 양성을 위해 어떤 사업을 추진할 수 있나요?", "expected_articles": ["제21조"], "expected_answer_keywords": ["교육훈련", "전문인력"]}
+{"id": "q13", "chapter": "제3장 기술개발 및 산업 육성", "question": "한국인공지능진흥협회는 어떻게 설립되나요?", "expected_articles": ["제26조"], "expected_answer_keywords": ["과학기술정보통신부장관", "인가"]}
+{"id": "q14", "chapter": "제3장 기술개발 및 산업 육성", "question": "인공지능 데이터센터 구축을 위해 정부는 어떤 시책을 추진하나요?", "expected_articles": ["제25조"], "expected_answer_keywords": ["데이터센터", "구축 및 운영"]}
+{"id": "q15", "chapter": "제4장 윤리 및 신뢰성 확보", "question": "인공지능 윤리원칙에는 어떤 내용이 포함되나요?", "expected_articles": ["제27조"], "expected_answer_keywords": ["안전성과 신뢰성", "접근성"]}
+{"id": "q16", "chapter": "제4장 윤리 및 신뢰성 확보", "question": "민간자율인공지능윤리위원회는 어떤 기관이나 단체가 둘 수 있나요?", "expected_articles": ["제28조"], "expected_answer_keywords": ["교육기관", "연구기관", "인공지능사업자"]}
+{"id": "q17", "chapter": "제4장 윤리 및 신뢰성 확보", "question": "인공지능사업자가 고영향 인공지능을 제공할 때 검·인증을 받아야 하나요?", "expected_articles": ["제30조"], "expected_answer_keywords": ["검ㆍ인증등", "노력"]}
+{"id": "q18", "chapter": "제4장 윤리 및 신뢰성 확보", "question": "생성형 인공지능으로 만든 결과물은 어떻게 표시해야 하나요?", "expected_articles": ["제31조"], "expected_answer_keywords": ["생성형 인공지능에 의하여 생성되었다는 사실", "표시"]}
+{"id": "q19", "chapter": "제4장 윤리 및 신뢰성 확보", "question": "인공지능사업자는 인공지능 안전성 확보를 위해 어떤 의무를 이행해야 하나요?", "expected_articles": ["제32조"], "expected_answer_keywords": ["위험의 식별", "위험관리체계"]}
+{"id": "q20", "chapter": "제4장 윤리 및 신뢰성 확보", "question": "인공지능사업자는 고영향 인공지능 해당 여부를 누구에게 확인 요청할 수 있나요?", "expected_articles": ["제33조"], "expected_answer_keywords": ["과학기술정보통신부장관", "확인"]}
+{"id": "q21", "chapter": "제4장 윤리 및 신뢰성 확보", "question": "고영향 인공지능을 제공하는 사업자는 어떤 조치를 이행해야 하나요?", "expected_articles": ["제34조"], "expected_answer_keywords": ["위험관리방안", "이용자 보호 방안"]}
+{"id": "q22", "chapter": "제4장 윤리 및 신뢰성 확보", "question": "고영향 인공지능 영향평가는 무엇을 평가하기 위한 것인가요?", "expected_articles": ["제35조"], "expected_answer_keywords": ["기본권에 미치는 영향"]}
+{"id": "q23", "chapter": "제5장 보칙", "question": "국내에 주소나 영업소가 없는 인공지능사업자는 어떤 의무가 있나요?", "expected_articles": ["제36조"], "expected_answer_keywords": ["국내대리인", "서면으로 지정"]}
+{"id": "q24", "chapter": "제6장 벌칙", "question": "위원회 위원이 직무상 알게 된 비밀을 누설하면 어떤 처벌을 받나요?", "expected_articles": ["제42조"], "expected_answer_keywords": ["3년 이하의 징역", "3천만원 이하의 벌금"]}
+{"id": "q25", "chapter": "제6장 벌칙", "question": "국내대리인을 지정하지 않으면 어떤 제재를 받나요?", "expected_articles": ["제43조"], "expected_answer_keywords": ["3천만원 이하의 과태료"]}
